@@ -16,3 +16,15 @@ andmebaaside haldusega seotud sql kood ja konspektid
 2. DML - data manipulation language
    
 ## Piirangud - constraint (5)
+1. Primary key
+2. NOT NULL
+3. CHECK - valik
+4. Unique
+5. Foreign key
+## Andmetübid
+```
+1. int, smallint, decimal(5,2) - numbrilised
+2. varchar(30), char(5), TEXT - tekst/sümbolised
+3. date, time, datetime, kuupäeva
+4. booleam,bit,bool - logilised
+```
