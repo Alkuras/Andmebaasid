@@ -1,6 +1,12 @@
 ## Andmebaasid
 andmebaaside haldusega seotud sql kood ja konspektid
 
+## Siskord 
+-[Põhimisted](#põhimõisted)
+-[Piirangud](#piirangud)
+-[Andmetüübid](#andmetüübid)
+-[Tabelivahelised seosed](#tabelivahelised seosed)
+
 ## Põhimõisted
 - Andmebaasi haldussüsteemid - tarkvara, millega abil saab luua andmebaas (mariaDB - XAMPP, SQL Server - SQL Server Management Studio (Server name - (localdb)\MSSQLLocalDB))
 - Andmebaas - struktureeritud andmete kogum
@@ -28,3 +34,10 @@ andmebaaside haldusega seotud sql kood ja konspektid
 3. date, time, datetime, kuupäeva
 4. booleam,bit,bool - logilised
 ```
+## Tabelibahelised seosed
+- üks-ühele (nt naine-mees)
+- üks-mitmele (nt naine-lapsed)
+  <img width="515" height="225" alt="{AA0F10F9-6150-4925-ACFA-D6946BFA0D27}" src="https://github.com/user-attachments/assets/bc2f7286-fa5c-4383-a27d-7d0c55d1e7d0" />
+
+- mitme-mitmele (õpilased-tunnid)
+  
