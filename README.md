@@ -42,7 +42,8 @@ andmebaaside haldusega seotud sql kood ja konspektid
 
 - mitme-mitmele (õpilased-tunnid)
 
-## ALTER TABLE - tabeli struktuuri muutmine
+## ALTER
+ALTER TABLE - tabeli struktuuri muutmine
 ```sql
 --1. uue veeru lisamine
 ALTER TABLE tootaja ADD testVeerg int ;
