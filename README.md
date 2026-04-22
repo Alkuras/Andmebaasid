@@ -5,6 +5,7 @@ andmebaaside haldusega seotud sql kood ja konspektid
 - [Põhimisted](#põhimõisted)
 - [Piirangud](#piirangud)
 - [Andmetüübid](#andmetüübid)
+- [ALTER](#alter)
 
 
 ## Põhimõisted
