@@ -40,4 +40,7 @@ andmebaaside haldusega seotud sql kood ja konspektid
   <img width="515" height="225" alt="{AA0F10F9-6150-4925-ACFA-D6946BFA0D27}" src="https://github.com/user-attachments/assets/bc2f7286-fa5c-4383-a27d-7d0c55d1e7d0" />
 
 - mitme-mitmele (õpilased-tunnid)
+
+## ALTER TABLE - tabeli struktuuri muutmine
+1. uue veeru lisamine 
   
