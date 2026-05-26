@@ -98,8 +98,9 @@ values(5,2,4,1),(100,4,3,4),(50,4,5,4),(500,2,5,4),(5,2,5,1)
 insert into tehtud
 values('2026-05-19',1),('2026-05-22',2),('2026-05-03',3),('2026-05-16',5),('2026-05-26',4)
 
+--kuvab kasutaja nimed koos nende retseptiga
 select kasutaja.eesnimi, kasutaja.perenimi, retsept.retseptinimi from retsept inner join kasutaja on kasutaja.kasutajaid = retsept.kasutajaid; 
-
+--kuvab retsepti nimed koos nende kategooriatega
 select retsept.retseptinimi,kategooria.kategoorianimi from kategooria inner join retsept on retsept.retseptid = kategooria.kategooriaid; 
 
 create table kinnitajad(
