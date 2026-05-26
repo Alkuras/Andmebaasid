@@ -33,20 +33,25 @@ DENY DELETE ON tootaja TO direktorMelikov;
 
 ## Kasutaja õiguste kontroll
 Logime sisse meie uue kasutajana
+
 <img width="482" height="508" alt="{41C59CFC-7F33-490C-904E-E09A4D9DDF4B}" src="https://github.com/user-attachments/assets/24ff727f-9da3-4ae4-9d33-c83066429a00" />
 
 
 Vaatame mis meile lubatakse:
+
 <img width="1085" height="724" alt="{931B455F-35D7-40D4-90B8-001AF65D2B3B}" src="https://github.com/user-attachments/assets/5be0c094-0eaf-4264-a6e3-98b8829c8025" />
 
 
 Nüüd mis on keelatud:
+
 <img width="1159" height="693" alt="{F9AF71FD-6CB4-4FBD-AA70-7918E9D14276}" src="https://github.com/user-attachments/assets/6f3b229c-c660-4568-85fb-c97fb06084b1" />
 
 
 Vaatame õigused läbi SQL päring:
+
 <img width="997" height="848" alt="{7EEF34AA-AF17-4CC7-BB01-7B11B74DA526}" src="https://github.com/user-attachments/assets/e1b6637d-24d7-461b-bc19-22e0eedfc355" />
 
 
 Nüüd läbi UI
+
 <img width="709" height="653" alt="{AF815C92-236A-4DCF-B0B6-74BA3C2F189B}" src="https://github.com/user-attachments/assets/9c5280df-89ab-42e4-91fd-934f4c21057c" />
