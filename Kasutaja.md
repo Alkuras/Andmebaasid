@@ -13,9 +13,12 @@ Tavaliselt piisab rollist: public
 
 <img width="269" height="261" alt="{08F9EF1E-A620-427B-A52B-229B31F4CF04}" src="https://github.com/user-attachments/assets/a6937912-e592-4693-92ca-907039331f80" />
 
+
 <img width="705" height="656" alt="{76262709-FF1B-4604-9D6C-1D7E2B09C576}" src="https://github.com/user-attachments/assets/c8fe6829-7748-4a68-9205-d43002112f11" />
 
+
 <img width="694" height="653" alt="{B4F96319-9E8B-4AA8-9737-28ECA2FE611C}" src="https://github.com/user-attachments/assets/d14fcda1-f2d8-4159-9991-bc976ea7189a" />
+
 
 ## LISAME ÕIGUSED Queriga
 
