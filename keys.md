@@ -1,6 +1,8 @@
 ### Andmebaasi võtmed(Keys) 
 
-Andmebaasi võtmed
+[Põhimõisted](README.md) | [Kasutajad](Kasutaja.md) | [Võtmed](keys.md) | [Trigerid](triger.md) | [Protseduurid](protseduurid.md) | [Sales table](Sales.md)
+
+##Andmebaasi võtmed
 
 Andmebaasides kasutame erinevaid võtmeid, et andmeid korralikult korraldada ja seostada. Iga võtme eesmärk on aidata identifitseerida ja seostada kirjeid tabelites, et andmed oleksid loogilised ja lihtsasti ligipääsetavad.
 
