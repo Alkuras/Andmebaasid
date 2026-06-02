@@ -5,6 +5,7 @@
 **SQL serveris kasutatakse kahte peamist autentimise tüüpi:**
 1. Windows Authentication
    > Kasutajanimi ja parool on seotud Windowsiga.
+   
     <img width="463" height="510" alt="{9D74BDCF-88CA-4E5C-A0F4-89F83B7E6603}" src="https://github.com/user-attachments/assets/a6c457c1-63f5-46a5-b757-e9f3da00f314" />
 
 2. SQL Server Authentification
