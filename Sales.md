@@ -1,3 +1,7 @@
+##Sales
+
+[Põhimõisted](README.md) | [Kasutajad](Kasutaja.md) | [Võtmed](keys.md) | [Trigerid](triger.md) | [Protseduurid](protseduurid.md) | [Sales table](Sales.md)
+
 ``` sql
 create table category(
 categoryID int Primary Key identity(1,1),
