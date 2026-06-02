@@ -1,5 +1,7 @@
 ## SQL Server - Kasutajate autentimine ja õiguste haldamine
 
+[Põhimõisted](README.md) | [Kasutajad](Kasutaja.md) | [Võtmed](keys.md) | [Trigerid](triger.md) | [Protseduurid](protseduurid.md) | [Sales table](Sales.md)
+
 **SQL serveris kasutatakse kahte peamist autentimise tüüpi:**
 1. Windows Authentication
    > Kasutajanimi ja parool on seotud Windowsiga.
