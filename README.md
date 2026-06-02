@@ -1,4 +1,7 @@
-## Andmebaasid
+## Andmebaaside Melikov konspektid
+
+[Põhimõisted](README.md) | [Kasutajad](Kasutaja.md) | [Võtmed](keys.md) | [Trigerid](triger.md) | [Protseduurid](protseduurid.md) | [Sales table](Sales.md)
+
 andmebaaside haldusega seotud sql kood ja konspektid
 
 ## Siskord 
