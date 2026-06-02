@@ -79,6 +79,10 @@ FROM deleted inner join inserted on deleted.linnID=inserted.linnID;
 
 <img width="718" height="232" alt="{BCA7F38C-E35E-4E78-87D8-6CF3FC896BC0}" src="https://github.com/user-attachments/assets/1012e7b8-8b0c-477e-b465-61507fc8d2c5" />
 
+``` sql
+exec sp_helptext 'linnaUuendamine'
+```
+
 
 
 
