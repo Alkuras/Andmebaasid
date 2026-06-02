@@ -1,4 +1,7 @@
-## SQL protseduur - 
+## SQL protseduur
+
+[Põhimõisted](README.md) | [Kasutajad](Kasutaja.md) | [Võtmed](keys.md) | [Trigerid](triger.md) | [Protseduurid](protseduurid.md) | [Sales table](Sales.md)
+
 store procedure - salvestatud protseduurid - sama mis on funktsioonid programmerimises, mingi tegevus mis on salvestatud andmebaasi ja mida saab automaatselt teha (INSERT, UPDATE, SELECT, UPDATE).
 
 <img width="249" height="181" alt="{2D6B6198-D9B4-4191-A4BC-28FC9C5E92EA}" src="https://github.com/user-attachments/assets/8fdb84c0-6ff2-4c43-8236-7acbd581e911" />
