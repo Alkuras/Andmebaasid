@@ -1,4 +1,7 @@
 ### SQL triggerid on spetsiaalsed andmebaasi objektid, mis käivituvad automaatselt, kui toimub teatud sündmus (nt INSERT, UPDATE või DELETE).
+
+[Põhimõisted](README.md) | [Kasutajad](Kasutaja.md) | [Võtmed](keys.md) | [Trigerid](triger.md) | [Protseduurid](protseduurid.md) | [Sales table](Sales.md)
+
 ``` sql
 CREATE TRIGGER linnaLisamine
 ON linnad --tabelinimi, mis on vaja jälgida
